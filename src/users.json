@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "Murilo",
+      "password": "Murilo-jogoglobal",
+      "viewer": "MuriloJG",
+      "isAuthenticated": false
+    },
+    {
+      "username": "jogoglobal",
+      "password": "jogoglobal-password-is-long",
+      "viewer": "jogoglobal",
+      "isAuthenticated": false
+    },
+    {
+      "username": "David",
+      "password": "David-jogoglobal",
+      "viewer": "DavidJG",
+      "isAuthenticated": false
+    },
+    {
+      "username": "Emmanuel",
+      "password": "Emmanuel-jogoglobal",
+      "viewer": "EmmanuelJG",
+      "isAuthenticated": false
+    }
+  ]
+}

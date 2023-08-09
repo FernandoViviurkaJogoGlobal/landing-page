@@ -1,0 +1,196 @@
+[
+    {
+      "tab": "Fast Games",
+      "description": "Fast Games",
+      "hasPdf": false,
+      "pdfLink": "JogoGlobal-Crash.pdf",
+      "content": [
+        {
+          "name" : "estrelabet",
+          "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=stelar-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+          "img": "EB-Crash.png",
+          "hasChip": false,
+          "chip": ""
+        },
+        {
+          "name" : "esporte da sorte",
+          "href": "https://gg-demo.globalgames.io/rgs/pces/launch/eds/?currency=FUN&customer=freeplay&demo=true&gameId=double-eds&lang=pt&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+          "img": "EdS-double.png",
+          "hasChip": false,
+          "chip": ""
+        },
+        {
+          "name" : "esporte da sorte motograu",
+          "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=motograu-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+          "img": "ES-motograu.png",
+          "hasChip": false,
+          "chip": ""
+        }
+      ]
+    },
+    {
+        "tab": "Crash Games",
+        "description": "Crash Games",
+        "hasPdf": true,
+        "pdfLink": "JogoGlobal-Crash.pdf",
+        "content": []
+    },
+    {
+        "tab": "Gamification Project",
+        "description": "Gamification Project",
+        "hasPdf": false,
+        "content": [
+          {
+            "name": "Slot",
+            "href": "https://fandev.globalgames.io/games/game-159/index.html?casinoKey=fan&serverAddress=https%3A%2F%2Ffandev.globalgames.io%2Frgs-api%2Ffan%2Fv1&userId=USER1&gameMode=REAL&currency=USD&lang=PT-BR&channel=DESKTOP&token=0d850314-3f5a-44fd-8c89-54e5c8a1257d&for_demo=false&gameId=159",
+            "img": "FAN-slot.png",
+            "class": "EB",
+            "hasChip": false,
+            "chip": ""
+          },
+          {
+            "name": "Scratch Card",
+            "href": "https://fandev.globalgames.io/games/game-158/index.html?casinoKey=fan&serverAddress=https%3A%2F%2Ffandev.globalgames.io%2Frgs-api%2Ffan%2Fv1&userId=USER1&gameMode=REAL&currency=USD&lang=PT-BR&channel=DESKTOP&token=a352cc04-a4cb-4d31-b69c-6d86a164070a&for_demo=false&gameId=158",
+            "img": "FAN-scratch.png",
+            "class": "EDS",
+            "hasChip": false,
+            "chip": ""
+          }
+        ]
+    },
+    {
+        "tab": "BETFRED",
+        "description": "BETFRED",
+        "hasPdf": false,
+        "content": [
+            {
+              "name": "Betfred roulette",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFEUROULETTE01&pi=101010&t=d0d78c32-409a-4ed6-a67e-7e3885fc8183&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "roulette.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "Betfred roulette MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFEUROULETTE01&pi=101010&t=d0d78c32-409a-4ed6-a67e-7e3885fc8183&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "roulette.png",
+              "hasChip": true,
+              "chip": "MINI"
+            },
+            {
+              "name": "BLACKJACK",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFBLACKJACK01&pi=101010&t=d2841fdb-44e6-4437-9e52-4bd4a4c1a212&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.38.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "blackjack.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "BLACKJACK  MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFBLACKJACK01&pi=101010&t=d2841fdb-44e6-4437-9e52-4bd4a4c1a212&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.38.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "blackjack.png",
+              "hasChip": true,
+              "chip": "MINI"
+            },
+            {
+              "name": "CLEOPATRANEEDLE",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFCLEOPATRASNEEDLE01&pi=101010&t=b4cad45d-27fe-4fd1-a669-1033bf9fcb34&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "cleoneedle.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "CLEOPATRANEEDLE MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFCLEOPATRASNEEDLE01&pi=101010&t=b4cad45d-27fe-4fd1-a669-1033bf9fcb34&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "cleoneedle.png",
+              "hasChip": true,
+              "chip": "MINI"
+            },
+            {
+              "name": "DIAMONDSANDDOLLARS",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFDIAMONDSANDDOLLARS01&pi=101010&t=29206c6e-b9b4-44cf-8783-69d8deac653a&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.38.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "ded.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "DIAMONDSANDDOLLARS MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFDIAMONDSANDDOLLARS01&pi=101010&t=29206c6e-b9b4-44cf-8783-69d8deac653a&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.38.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "ded.png",
+              "hasChip": true,
+              "chip": "MINI"
+            },
+            {
+              "name": "FRUITYBOOTY",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFFRUITYBOOTY01&pi=101010&t=fe6dd047-bd7c-477a-b54e-51ffb7f9af79&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "fruity.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "FRUITYBOOTY MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFFRUITYBOOTY01&pi=101010&t=fe6dd047-bd7c-477a-b54e-51ffb7f9af79&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "fruity.png",
+              "hasChip": false,
+              "chip": "MINI"
+            },
+            {
+              "name": "jaweloftheisle",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFJEWELOFTHEISLE01&pi=101010&t=427dad35-19bb-44a6-8316-b5b5f4a201b4&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.42.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "jewell.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "jaweloftheisle MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFJEWELOFTHEISLE01&pi=101010&t=427dad35-19bb-44a6-8316-b5b5f4a201b4&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.42.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "jewell.png",
+              "hasChip": true,
+              "chip": "MINI"
+            },
+            {
+              "name": "CLEOPATRAS ASS",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFCLEOPATRASASS01&pi=101010&t=2dd4976b-526e-4461-92dd-e38381e3bb16&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.41.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "cleoass.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "armed",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFARMEDBANDITS01&pi=101010&t=022f9356-e780-4ee0-9507-65b53a0efcc0&v=Desktop&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "armed.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "CHANDANTHEMAGNIFICENT",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFCHANDANTHEMAGNIFICENT01&pi=101010&t=f0aa706b-1a5a-49a9-b79b-800ef93626b2&v=Mobile&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "chandan.png",
+              "hasChip": false,
+              "chip": ""
+            },
+            {
+              "name": "CHANDANTHEMAGNIFICENT MINI",
+              "href": "https://sharp-demo.globalgames.io/launch/v1/launch?gi=BFCHANDANTHEMAGNIFICENT01&pi=101010&t=f0aa706b-1a5a-49a9-b79b-800ef93626b2&v=Min&c=GBP&m=Real&d=Desktop&l=en-GB&fi=1&ci=1&a=0&gv=1.39.1&hurl=_portfolio:GameClose&lurl=https://app.example.com/lobby&durl=https://app.example.com/deposit&env=internal",
+              "img": "chandan.png",
+              "hasChip": true,
+              "chip": "MINI"
+            }
+        ]
+    },
+    {
+        "tab": "Coming soon",
+        "description": "Coming soon",
+        "hasPdf": false,
+        "isCommingSoon": true,
+        "pdfLink": "JogoGlobal-Crash.pdf",
+        "content": []
+    },
+    {
+        "tab": "Jogo Global - About us",
+        "description": "Jogo Global - About us",
+        "hasPdf": true,
+        "isCommingSoon": false,
+        "pdfLink": "JogoGlobal-SalesDeckJune2023.pdf",
+        "content": []
+    }
+]

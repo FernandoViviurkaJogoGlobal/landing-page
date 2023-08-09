@@ -1,0 +1,3 @@
+#!/bin/bash
+export PROJECT_NAME="gg-landing-page"
+${JG_SCRIPTS_PATH}/jg_build

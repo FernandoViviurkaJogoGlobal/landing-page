@@ -18,7 +18,7 @@
           </video>
         </div>
       </v-col>
-      <v-col cols="12" sm="4">
+      <!-- <v-col cols="12" sm="4">
         <span>Double</span>
         <div class="video">
           <video
@@ -33,8 +33,8 @@
             Seu navegador não suporta a tag de vídeo.
           </video>
         </div>
-      </v-col>
-      <v-col cols="12" sm="4">
+      </v-col> -->
+      <!-- <v-col cols="12" sm="4">
         <span>Mines </span>
         <div class="video">
           <video
@@ -49,7 +49,7 @@
             Seu navegador não suporta a tag de vídeo.
           </video>
         </div>
-      </v-col>
+      </v-col> -->
     </v-row>
   </v-container>
 </template>

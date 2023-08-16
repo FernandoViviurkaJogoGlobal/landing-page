@@ -5,13 +5,7 @@
       "hasPdf": false,
       "pdfLink": "JogoGlobal-Crash.pdf",
       "content": [
-        {
-          "name" : "estrelabet",
-          "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=stelar-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
-          "img": "EB-Crash.png",
-          "hasChip": false,
-          "chip": ""
-        },
+        
         {
           "name" : "esporte da sorte",
           "href": "https://gg-demo.globalgames.io/rgs/pces/launch/eds/?currency=FUN&customer=freeplay&demo=true&gameId=double-eds&lang=pt&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
@@ -25,15 +19,44 @@
           "img": "ES-motograu.png",
           "hasChip": false,
           "chip": ""
+        },
+        {
+          "name" : "jet man",
+          "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=motograu-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+          "img": "jet-man.jpg",
+          "hasChip": true,
+          "chip": "NEW"
         }
       ]
     },
     {
         "tab": "Crash Games",
         "description": "Crash Games",
-        "hasPdf": true,
+        "hasPdf": false,
         "pdfLink": "JogoGlobal-Crash.pdf",
-        "content": []
+        "content": [
+          {
+            "name" : "estrelabet",
+            "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=stelar-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+            "img": "EB-Crash.png",
+            "hasChip": false,
+            "chip": ""
+          },
+          {
+            "name" : "Double Stars",
+            "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=stelar-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+            "img": "EB-Double-stars.png",
+            "hasChip": true,
+            "chip": "NEW"
+          },
+          {
+            "name" : "MINES",
+            "href": "https://gg-demo.globalgames.io/rgs/pces/launch/estrela-bet/?currency=FUN&customer=freeplay&demo=true&gameId=stelar-eb&lang=en&lobby=https://estrelabet.com/ptb/games/casino&platform=d&tableId=null&trader=ST-536&country=null",
+            "img": "mines.jpg",
+            "hasChip": true,
+            "chip": "NEW"
+          }
+        ]
     },
     {
         "tab": "Gamification Project",
@@ -178,15 +201,7 @@
         ]
     },
     {
-        "tab": "Coming soon",
-        "description": "Coming soon",
-        "hasPdf": false,
-        "isCommingSoon": true,
-        "pdfLink": "JogoGlobal-Crash.pdf",
-        "content": []
-    },
-    {
-        "tab": "Jogo Global - About us",
+        "tab": "About us",
         "description": "Jogo Global - About us",
         "hasPdf": true,
         "isCommingSoon": false,

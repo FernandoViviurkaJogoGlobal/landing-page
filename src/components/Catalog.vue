@@ -1,39 +1,27 @@
 <template>
   <main>
-    <v-row style="justify-content: center; margin: 8px">
-      <v-expansion-panels v-model="panel" multiple>
-        <v-expansion-panel style="background-color: #2196f3 !important">
-          <v-expansion-panel-header style="color: #fff !important"
-            >Confidential Info</v-expansion-panel-header
-          >
-          <v-expansion-panel-content>
-            <v-alert dense border="left" type="info" style="font-size: 12px">
-              This page holds private and confidential information belonging to
-              Jogo Global Ltd and may not be disclosed to any third party or
-              used for any other purpose without written permission from Jogo
-              Global Ltd.
-            </v-alert>
-          </v-expansion-panel-content>
-        </v-expansion-panel>
-        <v-expansion-panel style="background-color: #2196f3 !important">
-          <v-expansion-panel-header style="color: #fff !important"
-            >No Sharing</v-expansion-panel-header
-          >
-          <v-expansion-panel-content>
-            <v-alert dense border="left" type="info" style="font-size: 12px">
-              This page and its contents may not be reproduced, redistributed,
-              passed on, or the contents otherwise divulged, directly or
-              indirectly, to any other person or published in whole or in part
-              for any purpose without written permission from Jogo Global Ltd ©
-            </v-alert>
-          </v-expansion-panel-content>
-        </v-expansion-panel>
-      </v-expansion-panels>
-    </v-row>
+    <v-container style="padding: 0px !important">
+      <v-row style="justify-content: center; margin: 8px">
+        <span class="text-alert"
+          >This page holds private and confidential information belonging to
+          Jogo Global Ltd and may not be disclosed to any third party or used
+          for any other purpose without written permission from Jogo Global
+          Ltd.</span
+        >
+
+        <span class="text-alert">
+          This page and its contents may not be reproduced, redistributed,
+          passed on, or the contents otherwise divulged, directly or indirectly,
+          to any other person or published in whole or in part for any purpose
+          without written permission from Jogo Global Ltd ©</span
+        >
+      </v-row>
+    </v-container>
+
     <template>
-      <v-tabs
+      <!-- <v-tabs
         v-model="tab"
-        background-color="deep-purple accent-4"
+        background-color="deep-purple accent-4 container"
         center-active
         dark
         centered
@@ -41,10 +29,10 @@
         <v-tab v-for="item in items" :key="item.tab">
           {{ item.tab }}
         </v-tab>
-      </v-tabs>
+      </v-tabs> -->
 
-      <v-tabs-items v-model="tab" style="background-color: transparent">
-        <v-tab-item v-for="item in items" :key="item.tab">
+      <div style="background-color: transparent">
+        <div v-for="(item, idx) in items" :key="idx" :id="item.tab">
           <v-container class="container">
             <span class="span">{{ item.description }}</span>
             <v-row class="row">
@@ -80,23 +68,18 @@
               </div>
             </div>
           </v-container>
-        </v-tab-item>
-      </v-tabs-items>
+        </div>
+      </div>
     </template>
-    <v-container>
-      <span style="display: flex; justify-content: flex-end"
-        ><exit-button /></span
-    ></v-container>
   </main>
 </template>
 <script lang="ts">
 import Vue from "vue";
 import DownloadPdfVue from "./Download-pdf.vue";
-import ExitButton from "./ExitButton.vue";
 import VideoGrid from "./VideoGrid.vue";
 export default Vue.extend({
-  components: { VideoGrid, DownloadPdfVue, ExitButton },
-  name: "MySharp",
+  components: { VideoGrid, DownloadPdfVue },
+  name: "Catalog",
   data: () => ({
     tab: null,
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -161,8 +144,8 @@ export default Vue.extend({
   }
 
   .v-card {
-    width: 170px;
-    height: 95px;
+    width: 280px;
+    height: 150px;
   }
   .container {
     padding-top: 39px !important;
